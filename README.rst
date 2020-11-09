@@ -1,4 +1,4 @@
-Supervisor
+Supervisor3
 ==========
 
 Supervisor is a client/server system that allows its users to
